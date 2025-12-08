@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8B0000,100:1a1a1a&height=250&section=header&text=ZhanNexus&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=435&lines=Building+robust+systems;Python+%7C+Go+enthusiast;Based+in+Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=435&lines=Zhan+Prasetya+Ningrat;Python+Developer;Based+in+Indonesia)](https://git.io/typing-svg)
 
 </div>
 
