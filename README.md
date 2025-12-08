@@ -52,7 +52,8 @@ func NewDeveloper() *Developer {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZhanNexus&theme=dark&hide_border=true&background=0D1117&stroke=8B0000&ring=DC143C&fire=DC143C&currStreakLabel=C0C0C0&border_radius=8" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhanNexus&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C0C0C0&border_radius=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZhanNexus&theme=high-contrast&hide_border=true&bg_color=0D1117&color=DC143C&line=8B0000&point=FFFFFF&border_radius=8" />
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZhanNexus&theme=high-contrast&hide_border=true&bg_color=0D1117&color=DC143C&line=8B0000&point=FFFFFF&area=true&area_color=8B0000)
 
 </div>
 
