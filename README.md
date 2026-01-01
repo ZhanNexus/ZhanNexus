@@ -22,8 +22,8 @@ func NewDeveloper() *Developer {
         Name:      "Zhan",
         Location:  "SEA | Indonesia | E.Java | TGLK (AG)",
         Focus:     "Backend Development",
-        Languages: []string{"Python", "Go"},
-        Status:    "Exploring distributed systems",
+        Languages: []string{"Python", "Golang", "JavaScript"},
+        Status:    "Studying FE",
     }
 }
 ```
